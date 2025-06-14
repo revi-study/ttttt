@@ -24,7 +24,6 @@
 body,
 button {
   color: #000000;
-  pointer-events: all;
   font: 12px/18px "MS Sans Serif", Helvetica, sans-serif;
 }
 
